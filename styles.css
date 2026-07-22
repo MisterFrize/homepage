@@ -1,4 +1,6 @@
+
 /* ---------- General styles ---------- */
+
 * {
   margin: 0;
   padding: 0;
@@ -42,9 +44,11 @@ body {
   box-shadow: 1px 1px 7px 7px #f5f5f5;
   padding: 30px 0;
   max-width: 900px;
+
   background: #fff;
   border-radius: 6px;
   animation: resume-fade-in 0.6s ease-out both;
+
 }
 
 .resume__block {
